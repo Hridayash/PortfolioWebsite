@@ -5,7 +5,18 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontSize:{
+        "biggest" : "13rem"
+      },
+      height:{
+        "card-Height" :"40rem"
+      },
+      width:{
+        "card-Width": "32rem"
+      }
+      
+    },
   },
   plugins: [],
 }
