@@ -7,7 +7,7 @@ export default function Hero(){
             <h1 className="font-sans font-extrabold text-9xl">CREATE</h1>
             <h1 className="font-sans font-extrabold text-9xl">CONQURE</h1>
 
-            <div className="text-8xl font-light  mt-20"><BsArrowDownCircle /></div>
+            <div className="text-8xl font-light  mt-20 animate-bounce"><BsArrowDownCircle /></div>
         </div>
     );
 }
