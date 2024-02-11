@@ -9,8 +9,11 @@ import Portfolio from './Components/portfolio'
 import SectionHeading from './Components/sectionHeading'
 import Skills from './Components/skills'
 
-function App() {
 
+
+export default function App() {
+
+ 
 
   return (
     <>
@@ -24,8 +27,8 @@ function App() {
       <SectionHeading title = "CONTACT"/>
       <Contact/>
       <Footer/>
-    </>
+   </>
   )
 }
 
-export default App
+

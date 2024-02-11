@@ -1,4 +1,4 @@
-import "./nav.css"
+
 import { AiOutlineMenu } from "react-icons/ai";
 
 
